@@ -14,3 +14,15 @@ Each VM includes a full copy of an operating system, the application, necessary 
 # Comparing Containers and Virtual Machines
 Containers and virtual machines have similar resource isolation and allocation benefits, but function differently because containers virtualize the operating system instead of hardware.
 Containers are more portable and efficient.
+![Screenshot from 2023-11-17 16-33-33](https://github.com/khalidsr/inception/assets/85410199/869e32f6-0c1a-4ef9-837b-fc8e3058fb18)
+# What Is a Dockerfile
+A Dockerfile is a text document that contains all the commands a user needs to build a Docker image, a file used to execute code in a Docker container. When a user runs the Docker run command and specifies WordPress, Docker uses this file, the Dockerfile, to build the image.
+![Screenshot from 2023-11-17 18-09-55](https://github.com/khalidsr/inception/assets/85410199/8ff08f22-3bde-4e69-873b-3e9a90f1995a)
+
+# What Is Docker Compose
+Docker Compose is a tool for defining and running Docker containers by reading configuration data from a YAML file, which is a human-readable data-serialization language commonly used for configuration files and in applications where data is being stored or transmitted. 
+
+![Screenshot from 2023-11-17 18-10-27](https://github.com/khalidsr/inception/assets/85410199/3da92c60-5d4d-40ec-bd0a-bf21ffc71384)
+
+# Dockerfile vs Docker Compose
+Although both were invented by Docker and are part of the Docker universe, Dockerfile and Docker Compose are two different things with different functions. A Dockerfile is a text document with a series of commands used to build a Docker image. Docker Compose is a tool for defining and running multi-container applications.
