@@ -14,3 +14,4 @@ Each VM includes a full copy of an operating system, the application, necessary 
 # Comparing Containers and Virtual Machines
 Containers and virtual machines have similar resource isolation and allocation benefits, but function differently because containers virtualize the operating system instead of hardware.
 Containers are more portable and efficient.
+![Uploading Screenshot from 2023-11-17 16-33-33.png…]()
